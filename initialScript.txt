@@ -1,0 +1,1 @@
+update and upgrade choclately pro and login with renewed license with powershell
